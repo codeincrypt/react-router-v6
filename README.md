@@ -68,3 +68,24 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+FOLDER STRUCTURE
+----------------
+<!-- -> AFTER LOGIN WE CAN ACCESS ADMIN FUNCTIONALITIES
+
+
+SRC -> 
+    HOME -> 
+        HEADER, FOOTER (COMP)
+        HOMEPAGE
+        ABOUTUS
+        LOGIN
+    ADMIN -> 
+        HEADER, FOOTER, SIDEBAR (COMP)
+        DASHBOARD
+        PROFILE
+
+
+LAYOUT ->
+    HOME (INCLUDE HEADER, FOOTER & CHILD PAGE) & AUTH
+    ADMIN (INCLUDE HEADER, FOOTER, SIDEBAR & CHILD PAGE) -->
